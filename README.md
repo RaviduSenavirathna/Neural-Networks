@@ -16,12 +16,12 @@ The goal of this project is to deeply understand how neural networks work intern
   * Forward propagation
   * Backpropagation
   * Gradient descent
-*  Supports:
+* Supports:
 
   * Dense (fully connected) layers
   * Multiple activation functions
   * Binary classification tasks
-*  Trained on:
+* Trained on:
 
   * AND / OR logic gates
   * XOR problem
@@ -122,7 +122,7 @@ The network successfully learns the XOR function, demonstrating the importance o
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 Clone the repository:
 
