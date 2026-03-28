@@ -1,6 +1,6 @@
-# 🧠 Neural Network From Scratch (NumPy)
+# Neural Network
 
-## 📌 Overview
+## Overview
 
 This project implements a **Neural Network from scratch using only NumPy**, without relying on high-level deep learning frameworks such as TensorFlow or PyTorch.
 
@@ -8,28 +8,28 @@ The goal of this project is to deeply understand how neural networks work intern
 
 ---
 
-## 🚀 Features
+## Features
 
-* ✅ Built entirely with **NumPy**
-* ✅ Manual implementation of:
+*  Built entirely with **NumPy**
+*  Manual implementation of:
 
   * Forward propagation
   * Backpropagation
   * Gradient descent
-* ✅ Supports:
+*  Supports:
 
   * Dense (fully connected) layers
   * Multiple activation functions
   * Binary classification tasks
-* ✅ Trained on:
+*  Trained on:
 
   * AND / OR logic gates
   * XOR problem
-* ✅ Modular and extendable codebase
+*  Modular and extendable codebase
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ### Forward Propagation
 
@@ -81,7 +81,7 @@ b = b - learning_rate * db
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 neural-network-from-scratch/
@@ -104,7 +104,7 @@ neural-network-from-scratch/
 
 ---
 
-## 📊 Results
+##  Results
 
 ### XOR Problem
 
@@ -139,7 +139,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run XOR training:
 
@@ -149,7 +149,7 @@ python train_xor.py
 
 ---
 
-## 📚 Learning Objectives
+##  Learning Objectives
 
 This project was built to understand:
 
@@ -161,7 +161,7 @@ This project was built to understand:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add ReLU and Softmax support
 * Implement optimizers (Momentum, Adam)
@@ -172,18 +172,18 @@ This project was built to understand:
 
 ---
 
-## 💡 Key Insight
+##  Key Insight
 
 > This project intentionally avoids high-level frameworks to provide a deeper understanding of neural network fundamentals.
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 Built as part of a learning journey into deep learning, computer vision, and AI system design.
